@@ -137,4 +137,4 @@ DELETE /students/{id}
 
 ## 🧑‍💻 Autor
 
-Proyecto educativo Laravel CRUD.
+YorkDev.
