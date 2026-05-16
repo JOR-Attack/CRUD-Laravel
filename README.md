@@ -1,4 +1,4 @@
-3# 📚 CRUD de Estudiantes - Laravel
+# 📚 CRUD de Estudiantes - Laravel
 
 Este proyecto es una aplicación web básica desarrollada con Laravel para la gestión de estudiantes. Permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una base de datos.
 
@@ -89,7 +89,7 @@ git clone https://github.com/JOR-Attack/CRUD-Laravel.git
 composer install
 
 3. Instalar dependencias frontend:
-npm install
+pnpm install
 
 4. Configurar .env:
 DB_DATABASE=colegio
