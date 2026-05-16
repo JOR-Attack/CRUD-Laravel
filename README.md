@@ -1,4 +1,4 @@
-# 📚 CRUD de Estudiantes - Laravel
+3# 📚 CRUD de Estudiantes - Laravel
 
 Este proyecto es una aplicación web básica desarrollada con Laravel para la gestión de estudiantes. Permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una base de datos.
 
@@ -42,6 +42,7 @@ Este proyecto sigue el patrón MVC (Model - View - Controller):
 ## 📁 Estructura del proyecto
 
 app/
+
  └── Models/
       └── Student.php
 
