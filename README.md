@@ -40,35 +40,27 @@ Este proyecto sigue el patrón MVC (Model - View - Controller):
 ---
 
 ## 📁 Estructura del proyecto
-"""
+```
 app/
-
  └── Models/
- 
       └── Student.php
 
 app/
-
  └── Http/
- 
       └── Controllers/
-      
            └── StudentController.php
 
 resources/
-
  └── views/
- 
       └── students/
-      
            ├── index.blade.php
            ├── create.blade.php
            └── edit.blade.php
 
 database/
-
  └── migrations/
-"""
+```
+
 ---
 
 ## 🗄️ Base de datos
