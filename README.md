@@ -40,7 +40,7 @@ Este proyecto sigue el patrón MVC (Model - View - Controller):
 ---
 
 ## 📁 Estructura del proyecto
-
+"""
 app/
 
  └── Models/
@@ -68,7 +68,7 @@ resources/
 database/
 
  └── migrations/
-
+"""
 ---
 
 ## 🗄️ Base de datos
