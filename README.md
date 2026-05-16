@@ -44,21 +44,29 @@ Este proyecto sigue el patrón MVC (Model - View - Controller):
 app/
 
  └── Models/
+ 
       └── Student.php
 
 app/
+
  └── Http/
+ 
       └── Controllers/
+      
            └── StudentController.php
 
 resources/
+
  └── views/
+ 
       └── students/
+      
            ├── index.blade.php
            ├── create.blade.php
            └── edit.blade.php
 
 database/
+
  └── migrations/
 
 ---
