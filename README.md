@@ -83,7 +83,7 @@ Campos:
 ## ⚙️ Instalación
 
 1. Clonar repo:
-git clone https://github.com/usuario/crud-students.git
+git clone [https://github.com/usuario/crud-students.git](https://github.com/JOR-Attack/CRUD-Laravel.git)
 
 2. Instalar dependencias PHP:
 composer install
@@ -92,7 +92,7 @@ composer install
 npm install
 
 4. Configurar .env:
-DB_DATABASE=nombre_base_datos
+DB_DATABASE=colegio
 DB_USERNAME=root
 DB_PASSWORD=
 
